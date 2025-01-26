@@ -48,6 +48,7 @@ dependencies:
   #localization
   easy_localization: ^3.0.7
   intl: ^0.18.1
+  #to handle splash screen for android 12+
   flutter_native_splash: ^2.3.7
   flutter_svg: ^2.0.10+1
   # for adapting screen and font size

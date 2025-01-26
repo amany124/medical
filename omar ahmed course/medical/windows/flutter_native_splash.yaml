@@ -1,0 +1,14 @@
+flutter_native_splash:
+  #notice to the forward slash & the file is sensitive to spaces 
+  #dart run flutter_native_splash:create --path=windows\flutter_native_splash.yaml
+  color: "#ffffff"
+  
+  image: assets/images/splash_screen.png
+
+ 
+  android_12:
+    
+    image: assets/images/android12logo.png
+
+    
+    color: "#ffffff"
